@@ -1,0 +1,6 @@
+framework module Pods_BeerFinderRxSwift {
+  umbrella header "Pods-BeerFinderRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
